@@ -1,4 +1,4 @@
-<h2 align="center" text-weight="bold"> Olá, pessoal! Sou Letícia👋 </h2> 
+<h2 align="center" text-weight="bold"> Olá, pessoa! Sou Letícia👋 </h2> 
 <h4 align="center" text-weight="bold"> Bem vindos ao meu perfil do GitHub...  </h4> 
 
 
@@ -14,7 +14,7 @@
 ### 💻 Projetos legais desenvolvidos nos últimos meses...
   
   
-  React   | JavaScript
+  ReactJS  | JavaScript
   --------- | ------
   <a href="https://github.com/leeticiafgs/encurtador-de-links-react">Encurtador de Links | <a href="https://github.com/leeticiafgs/calculadora-simples">Calculadora Simples
   <a href="https://github.com/leeticiafgs/dio-clone">Clone do Site DIO | <a href="https://github.com/leeticiafgs/adivinhe-o-numero">Adivinhe o Número
