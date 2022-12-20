@@ -20,6 +20,7 @@
   <a href="https://github.com/leeticiafgs/dio-clone">Clone do Site DIO | <a href="https://github.com/leeticiafgs/adivinhe-o-numero">Adivinhe o Número
   <a href="https://github.com/leeticiafgs/wiki-github">Wiki Github | <a href="https://github.com/leeticiafgs/calculadora-de-gorjeta">Calculadora de Gorjeta
   <a href="https://github.com/leeticiafgs/calculadora-simples-react">Calculadora Simples| <a href="https://github.com/leeticiafgs/troque-a-cor">Troque a Cor
+  <a href="https://github.com/leeticiafgs/buscador-de-cep">Buscador de CEP| 
 
  <hr>
     
