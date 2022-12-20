@@ -33,7 +33,7 @@
     
 ### 🎓 Certificações e Cursos
     
-[Clique aqui para acessar a área de Certificações e Cursos](https://github.com/leeticiafgs/Certificados)
+- [Clique aqui para acessar a área de Certificações e Cursos](https://github.com/leeticiafgs/Certificados)
     
 ### Contatos
     
