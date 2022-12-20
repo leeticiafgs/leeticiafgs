@@ -14,7 +14,7 @@
 ### 💻 Projetos legais desenvolvidos nos últimos meses...
   
   
-  ReactJS  | JavaScript
+  ReactJS  | HTML, CSS, JavaScript
   --------- | ------
   <a href="https://github.com/leeticiafgs/encurtador-de-links-react">Encurtador de Links | <a href="https://github.com/leeticiafgs/calculadora-simples">Calculadora Simples
   <a href="https://github.com/leeticiafgs/dio-clone">Clone do Site DIO | <a href="https://github.com/leeticiafgs/adivinhe-o-numero">Adivinhe o Número
