@@ -1,4 +1,4 @@
-<h2 align="center" text-weight="bold"> Olá, pessoa! Sou Letícia👋 </h2> 
+<h2 align="center" text-weight="bold"> Olá, pessoal! Sou Letícia👋 </h2> 
 <h4 align="center" text-weight="bold"> Bem vindos ao meu perfil do GitHub...  </h4> 
 
 
