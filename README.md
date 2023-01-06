@@ -22,7 +22,7 @@
   <a href="https://github.com/leeticiafgs/calculadora-simples-react">Calculadora Simples| <a href="https://github.com/leeticiafgs/troque-a-cor">Troque a Cor
   <a href="https://github.com/leeticiafgs/buscador-de-cep">Buscador de CEP| <a href="https://github.com/leeticiafgs/gerador-de-senha">Gerador de Senha
   <a href="#">| <a href="https://github.com/leeticiafgs/projeto-strata">Clone Design Strata HTML5
-  <a href="#">| <a href="https://github.com/leeticiafgs/projeto-strata">Clone Design Strata HTML5
+  <a href="#">| <a href="https://github.com/leeticiafgs/Design-Site-Range-Hotels.git">Design Site Range Hotels
 
  <hr>
     
