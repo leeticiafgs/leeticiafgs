@@ -8,7 +8,7 @@
   🔹 Estive um tempo off do mundo da computação, atuando em outros trabalhos, mas estou de volta para o mundo tech<br/>
   🔹 Me identifico com o mundo do Frontend, por isso estou aprofundando meus estudos em HTML, CSS, JavaScript e seus frameworks/bibliotecas 
   (confesso que tenho gostando bastante de React...)<br/>
-  🔹Tenho interesse em trabalhar HomeOffice
+ 
 <hr>  
   
 ### 💻 Projetos legais desenvolvidos nos últimos meses...
